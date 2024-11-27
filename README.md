@@ -36,4 +36,4 @@ This project showcases an **HR Analytics Dashboard** built to analyze key employ
 
 
 ## Contact  
-Feel free to reach out for feedback or collaboration via [LinkedIn](https://www.linkedin.com/in/mohammad-ali-sk-316508240/)] or email  mohammadalisk050@gmail.com. 
+Feel free to reach out for feedback or collaboration via [LinkedIn](https://www.linkedin.com/in/mohammad-ali-sk-316508240/) or email  mohammadalisk050@gmail.com. 
