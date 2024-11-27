@@ -1,0 +1,25 @@
+### Basic Level  
+1. Retrieve all records from the dataset.  
+2. Get the count of all employees.  
+3. List all distinct job roles in the dataset.  
+4. Find the total number of active employees.  
+5. Show the average age of employees.  
+
+### Intermediate Level  
+6. Get the count of employees by gender.  
+7. Find the number of employees who have left the company.  
+8. List departments with their total employees.  
+9. Retrieve the average job satisfaction for each department.  
+10. Find the percentage of employees who travel for business.  
+
+### Advanced Level  
+11. Identify the top 3 departments with the highest attrition rate.  
+12. Find the age group (age_band) with the highest job satisfaction.  
+13. Calculate the attrition rate for each job role.  
+14. Determine the average age of employees by marital status and gender.  
+15. Rank departments based on the average job satisfaction of their employees.  
+16. Find the correlation between attrition and job satisfaction.  
+17. Identify the education fields with the highest proportion of employees in senior job roles.  
+18. Retrieve the department with the highest number of employees eligible for retirement (e.g., age > 60).  
+19. Analyze the attrition rate across different education levels and fields.  
+20. Create a summary report showing the total employees, attrition count, and active employee count for each department.
