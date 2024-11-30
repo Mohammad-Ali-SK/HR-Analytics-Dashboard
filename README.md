@@ -1,7 +1,3 @@
-Here's a **README description** tailored for your HR Analytics Dashboard project based on the image you provided:  
-
----
-
 # HR Analytics Dashboard  
 
 This project showcases an **HR Analytics Dashboard** built to analyze key employee metrics and provide insights into workforce dynamics. The dashboard is designed to help HR teams monitor employee attrition, satisfaction levels, and demographic distributions effectively.  
